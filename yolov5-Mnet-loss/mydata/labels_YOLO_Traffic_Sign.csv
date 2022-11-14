@@ -1,0 +1,40 @@
+ClassID,Description
+1,Pedestrian
+2,Left Sharp Curve
+3,Right Sharp Curve
+4,No Over Taking
+5,Turn Left
+6,Turn Right
+7,Speed Limit 70
+8,Speed Limit 50
+9,Speed Limit 30
+10,Speed Limit 20
+11,Speed Limit 60
+12,No Waiting
+13,Road Work
+14,TrafficSign
+15,Snow Warning Sign
+16,Slippery Road
+17,Give Way
+18,RoundAbout
+19,No Stopping
+20,Go Straight
+21,Danger Ahead
+22,Go Right or Straight
+23,Go Left or Straight
+24,End of Right Road (Go straight)
+25,Stop
+26,Right Curve Ahead
+27,Left Curve Ahead
+28,Cycle Zone
+29,Speed Limit 80
+30,Speed Limit 120
+31,No Over Taking Trucks
+32,Truck Sign
+33,No Entry
+34,Traffic Signals Ahead
+35,Speed Limit 100
+36,End of Left Road (Go straight)
+37,Deer Zone
+38,Huddle Road
+39,No Truck Sign
